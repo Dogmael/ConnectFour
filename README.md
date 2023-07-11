@@ -1,2 +1,2 @@
 # ConnectFour
-connect four projet w1 Ironhack
+Connect four, projet w1 Ironhack
